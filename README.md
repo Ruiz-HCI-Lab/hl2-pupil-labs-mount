@@ -17,4 +17,4 @@
 Use the ```.gcode``` file if present or import the latest ```.stl``` to your 3d slicing software.
 Supports are needed ("gyroid" pattern is recommended, but others should work).
 20-25% infill gives good results. Higher values may cause the mount or screws to break.
-Use self-tapping micro screws (size TBD) to attach the two parts of the mounts together on the headset.
+Use self-tapping micro screws (size M1.7*5) to attach the two parts of the mounts together on the headset.
