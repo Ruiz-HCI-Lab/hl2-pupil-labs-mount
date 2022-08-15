@@ -1,6 +1,6 @@
 # HL2 Pupil Labs Mount
 
-3D printed mount for Pupil Labs attachment on HoloLens 2
+3D printed mount for Pupil Labs attachment on HoloLens 2. This mount requires the Pupil Labs Hololens Binocular Add-on.
 
 ## Files
 
